@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "*": {
+      "item": "copperrevolution:bearing"
+    },
+    "/": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "pattern": [
+    "/#/",
+    "#*#",
+    "/#/"
+  ],
+  "result": {
+    "item": "copperrevolution:bearing_block"
+  }
+}

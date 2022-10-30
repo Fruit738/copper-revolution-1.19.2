@@ -1,0 +1,13 @@
+{
+  "item.copperrevolution.dynamics": "Dynamics",
+  "item.copperrevolution.statics": "Statics",
+  "item.copperrevolution.glue": "Glue",
+  "item.copperrevolution.bearing": "Bearing",
+
+  "block.copperrevolution.bearing_block": "Bearing block",
+  "block.copperrevolution.balloon": "Balloon",
+
+  "entity.copperrevolution.physics_block_entity": "Physics Block Entity",
+
+  "itemGroup.copperrevolution.copperrevolution": "Copper Revolution"
+}
